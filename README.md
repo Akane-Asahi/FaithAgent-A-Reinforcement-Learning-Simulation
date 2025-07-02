@@ -96,9 +96,12 @@ This project is a step toward building culturally sensitive, value-aligned agent
 ## Sample Output
 
 ```text
-03:30 | Action: pray             | Context: fajr_on_time | Reward: +10 | Valid: True (Basic Islamic Rule)
-09:00 | Action: work             | Context: halal         | Reward: +2  | Valid: True (Basic Islamic Rule)
-21:00 | Action: recite_quran     | Context: night         | Reward: +5  | Valid: True (Hadith: Surah Mulk protects from grave punishment)
+03:30 | Action: pray            | Context: fajr_on_time   | Reward: +10 | Valid: True (Basic Islamic Rule)
+09:00 | Action: pray            | Context: work           | Reward: +0 | Valid: False (Action not validated)
+13:00 | Action: sleep           | Context: dhuhr_delayed  | Reward: +0 | Valid: False (Action not validated)
+18:00 | Action: recite_quran    | Context: night          | Reward: +5 | Valid: True (Basic Islamic Rule)
+21:00 | Action: recite_quran    | Context: night          | Reward: +5 | Valid: True (Basic Islamic Rule)
+23:00 | Action: pray            | Context: sleep          | Reward: +0 | Valid: False (Action not validated)
 ```
 
 ## Academic Motivation
