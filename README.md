@@ -1,6 +1,8 @@
 # FaithAgent-A-Reinforcement-Learning-Simulation
 
 > A context-aware, ethically aligned reinforcement learning agent designed to simulate spiritually motivated decision-making based on Islamic values and seerah (Prophetic tradition). This work as preliminary research aimed at modeling faith-aware autonomous agents — not merely for fatwa automation, but for simulating Islamic decision-making using agent-based frameworks.
+> 
+> "Rather than merely returning fatwas, I aim to simulate agents capable of reasoning through complex Islamic ethical decisions in varying contexts."
 
 ---
 
@@ -137,5 +139,3 @@ If you are passionate about ethical reinforcement learning, Islamic knowledge mo
 
 MIT License.
 Open-source for academic and non-commercial use. Contact for commercial licensing or publication rights.
-
-"Rather than merely returning fatwas, I aim to simulate agents capable of reasoning through complex Islamic ethical decisions in varying contexts."
