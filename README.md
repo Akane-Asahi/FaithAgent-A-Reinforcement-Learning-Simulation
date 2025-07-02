@@ -4,6 +4,14 @@
 
 ---
 
+## Run it on Google Colab
+<a href="https://colab.research.google.com/drive/1CazCpZqiw5F3hOjabsA_HIqfhHxK0OEi?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab to run instantly in the cloud (no installation needed) " style="height:28px; vertical-align:middle; margin-right:5px"></a>  
+1. Click above link to run this project with a single click.  
+2. Click Run All button to run
+3. Run it multimple times to check how the simulation is performing.
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
