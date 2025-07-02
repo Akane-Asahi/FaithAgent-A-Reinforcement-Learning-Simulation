@@ -1,6 +1,6 @@
 # FaithAgent-A-Reinforcement-Learning-Simulation
 
-> A context-aware, ethically aligned reinforcement learning agent designed to simulate spiritually motivated decision-making based on Islamic values and seerah (Prophetic tradition).
+> A context-aware, ethically aligned reinforcement learning agent designed to simulate spiritually motivated decision-making based on Islamic values and seerah (Prophetic tradition). This work as preliminary research aimed at modeling faith-aware autonomous agents — not merely for fatwa automation, but for simulating Islamic decision-making using agent-based frameworks.
 
 ---
 
@@ -63,7 +63,7 @@ This project is a step toward building culturally sensitive, value-aligned agent
 - **Thawab Trend:** Hourly reward progression  
 - **Action Distribution:** Frequency of actions like `pray`, `recite_quran`, `work`
 
-> ![Example Placeholder](https://placehold.co/600x300?text=Thawab+Trend+%2B+Actions+Graph)
+> ![Simulation Result](FaithAgent.png)
 
 ---
 
