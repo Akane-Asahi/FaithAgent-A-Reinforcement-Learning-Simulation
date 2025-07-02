@@ -4,21 +4,19 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
-- [Overview](#-overview)
-- [Core Concepts](#-core-concepts)
-- [Features](#-features)
-- [Sample Scenarios](#-sample-scenarios-simulated)
-- [Visualization](#-visualization-example)
-- [Sample Output](#-sample-output)
-- [Academic Motivation](#-academic-motivation)
-- [Requirements](#-requirements)
-- [Run the Simulation](#-run-the-simulation)
-- [Seerah Database Structure](#-seerah-database-structure)
-- [Future Work](#-future-work)
+- [Overview](#overview)
+- [Core Concepts](#core-concepts)
+- [Features](#features)
+- [Sample Scenarios](#sample-scenarios-simulated)
+- [Visualization](#visualization-example)
+- [Sample Output](#sample-output)
+- [Academic Motivation](#academic-motivation)
+- [Seerah Database Structure](#seerah-database-structure)
+- [Future Work](#future-work)
 - [Contributions & Contact](#-contributions--contact)
-- [License](#-license)
+- [License](#license)
 
 ---
 
@@ -69,7 +67,7 @@ This project is a step toward building culturally sensitive, value-aligned agent
 
 ---
 
-## 🧾 Sample Output
+## Sample Output
 
 ```text
 03:30 | Action: pray             | Context: fajr_on_time | Reward: +10 | Valid: True (Basic Islamic Rule)
@@ -124,7 +122,7 @@ If you are passionate about ethical reinforcement learning, Islamic knowledge mo
 </a>  
 🌍 Timezone: GMT+6 (Dhaka, Bangladesh)  
 
-## 📜 License
+## License
 
 MIT License.
 Open-source for academic and non-commercial use. Contact for commercial licensing or publication rights.
