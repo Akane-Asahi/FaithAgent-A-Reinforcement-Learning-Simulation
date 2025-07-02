@@ -18,10 +18,10 @@
 - [Core Concepts](#core-concepts)
 - [Features](#features)
 - [Sample Scenarios](#sample-scenarios-simulated)
+- [Seerah Database Structure](#seerah-database-structure)
 - [Visualization](#visualization-example)
 - [Sample Output](#sample-output)
 - [Academic Motivation](#academic-motivation)
-- [Seerah Database Structure](#seerah-database-structure)
 - [Future Work](#future-work)
 - [Contributions & Contact](#-contributions--contact)
 - [License](#license)
@@ -66,6 +66,24 @@ This project is a step toward building culturally sensitive, value-aligned agent
 
 ---
 
+## Seerah Database Structure
+```
+{
+  "pray_during_war": {
+    "action": "pray",
+    "context": "during_war",
+    "reward": 20,
+    "source": "Battle of Khandaq: Prophet ﷺ prayed under attack"
+  },
+  "recite_mulk_night": {
+    "action": "recite_quran",
+    "context": "night",
+    "reward": 5,
+    "source": "Hadith: Surah Mulk protects from grave punishment"
+  }
+}
+```
+
 ## Visualization Example
 
 - **Thawab Trend:** Hourly reward progression  
@@ -93,24 +111,6 @@ iStar-RL: Goal-oriented and uncertainty-aware RL environments
 AI Ethics & Autonomy: Agents operating under moral/spiritual constraints  
 Symbolic Reasoning: Embedding Islamic rulings and seerah as symbolic rules
 
-
-## Seerah Database Structure
-```
-{
-  "pray_during_war": {
-    "action": "pray",
-    "context": "during_war",
-    "reward": 20,
-    "source": "Battle of Khandaq: Prophet ﷺ prayed under attack"
-  },
-  "recite_mulk_night": {
-    "action": "recite_quran",
-    "context": "night",
-    "reward": 5,
-    "source": "Hadith: Surah Mulk protects from grave punishment"
-  }
-}
-```
 
 ## Future Work
 
